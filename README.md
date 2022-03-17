@@ -1,2 +1,2 @@
-# JS-Exercise-Tracker
+# Exercise Tracker
  Exercise Tracker REST API REACT

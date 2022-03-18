@@ -35,9 +35,6 @@ The program represents a web application that tracks exercises performed during 
   * Controller
 * 'tracker_rest/' - RESTful Express app - subdirectory containing the files for the REST API implemented with Node, Express, and MongoDB.
   * Model - uses Mongoose(MongoDB) to perform CRUD operations on the exercises database.
-  * Controller - Contains the Express route handlers to act as controllers for the model. 
-   * d
-   * d
-   * d
-   * d
+  * Controller - Contains the Express route handlers to act as controllers for the model.  
+   - 
     

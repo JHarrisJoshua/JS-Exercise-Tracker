@@ -30,11 +30,16 @@ The program represents a web application that tracks exercises performed during 
 ### 2. Application Details
 
 **App Files**
-* 'tracker_react/' - subdirectory containing the files for the UI implemented with React.
-  * Model - uses Mongoose(MongoDB) to perform CRUD operations on the exercises database.
-  * Controller
+* 'tracker_react/' - subdirectory containing the files for the UI implemented with React. Single page application (SPA) containing three pages.
+  * Home Page - displays all movies stored in the MongoDB exercise collection. Exercises can be edited or deleted.
+  * Add Exercise Page - Allows user to add an exercise and save it to the database. Once saved, the user is taken back to the home page.
+  * Edit Exercise Page - Allows user to edit an existing exercise; exercise details are pre-populated based on the selected exercise. After saving, the user is directed back to the home page
+  
 * 'tracker_rest/' - RESTful Express app - subdirectory containing the files for the REST API implemented with Node, Express, and MongoDB.
   * Model - uses Mongoose(MongoDB) to perform CRUD operations on the exercises database.
-  * Controller - Contains the Express route handlers to act as controllers for the model.  
-   - 
+  * Controller - Contains the Express HTTP route handlers to act as controllers for the model.  
+    POST - Create 
+    GET - Retrieve
+    PUT - Update
+    DELETE - Delete 
     

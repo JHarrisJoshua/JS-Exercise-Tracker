@@ -31,7 +31,13 @@ The program represents a web application that tracks exercises performed during 
 
 **App Files**
 * 'tracker_react/' - subdirectory containing the files for the UI implemented with React.
-1. Model
-2. Controller
-* 'tracker_rest/' - subdirectory containing the files for the REST API implemented with Node, Express, and MongoDB.
-** 
+  * Model - uses Mongoose(MongoDB) to perform CRUD operations on the exercises database.
+  * Controller
+* 'tracker_rest/' - RESTful Express app - subdirectory containing the files for the REST API implemented with Node, Express, and MongoDB.
+  * Model - uses Mongoose(MongoDB) to perform CRUD operations on the exercises database.
+  * Controller - Contains the Express route handlers to act as controllers for the model. 
+   * d
+   * d
+   * d
+   * d
+    

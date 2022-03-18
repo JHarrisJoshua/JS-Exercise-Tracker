@@ -6,8 +6,8 @@
 2. [Overview](#Overview)
 3. [Program Spec](#Program-Spec)
 
-## Video Demo (higher quality)
-### Extended Video
+## Video Demo
+### Extended Video (higher resolution)
 <https://youtu.be/G8hgM80De7Q>
 
 ### GIF

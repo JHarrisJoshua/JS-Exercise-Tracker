@@ -6,7 +6,7 @@
 2. [Overview](#Overview)
 3. [Program Spec](#Program-Spec)
 
-## Video Demo
+## Video Demo (higher quality)
 ### Extended Video
 <https://youtu.be/G8hgM80De7Q>
 

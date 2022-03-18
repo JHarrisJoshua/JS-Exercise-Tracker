@@ -10,7 +10,7 @@
 ### Extended Video (higher resolution)
 <https://youtu.be/G8hgM80De7Q>
 
-### GIF
+### GIF (lower resolution)
 ![exercise_trackerGIF](https://user-images.githubusercontent.com/81477294/158917890-a1661ec0-9a30-4942-9a31-50a453effa64.gif)
 
 ## Overview
@@ -31,7 +31,7 @@ The program represents a web application that tracks exercises performed during 
 
 **App Files**
 * 'tracker_react/' - subdirectory containing the files for the UI implemented with React.
-** Model
-** Controller
+1. Model
+2. Controller
 * 'tracker_rest/' - subdirectory containing the files for the REST API implemented with Node, Express, and MongoDB.
 ** 
